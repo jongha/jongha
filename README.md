@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a passionate software engineer with over 20 years of experience in the industry. Throughout my career, I have developed a wide range of software solutions and honed my skills in various programming languages and technologies.
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or would like to collaborate on an exciting project. Let's build great and reliable software together!
+
 <!--
 **jongha/jongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

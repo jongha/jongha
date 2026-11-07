@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a passionate software engineer with over 20 years of experience in the industry. Throughout my career, I have developed a wide range of software solutions and honed my skills in various programming languages and technologies.
+I'm a software engineer and indie maker based in Seoul, building software since 2002. I turn ideas into products people can use from defining the problem and designing the experience to development, launch, and ongoing operation.
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or would like to collaborate on an exciting project. Let's build great and reliable software together!
+My work spans web platforms, mobile apps, games, and developer tools. I’m particularly interested in practical uses of AI and automation that help people create, solve problems, and get things done. Along the way, I share what I build and what I learn.
+
+Explore my repositories, or visit [mrlatte.net(en)](https://www.mrlatte.net/en/), [mrlatte.net(ko)](https://www.mrlatte.net/en/) to see my products and writing. If you're working on something useful or interesting, I'd be happy to connect and explore how we could build it together.
 
 <!--
 **jongha/jongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

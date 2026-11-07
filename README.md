@@ -1,5 +1,5 @@
 <a href="https://www.mrlatte.net/en/">
-  <img src="assets/profile-cover.jpg" alt="My illustrated avatar building software at a desk, with a laptop, connected web and mobile interfaces, a notebook, and a latte." width="100%">
+  <img src="assets/profile-cover.jpg" alt="A quiet illustrated workspace with a laptop, a notebook, and a latte in warm cream and muted olive tones." width="100%">
 </a>
 
 # Hi there 👋
